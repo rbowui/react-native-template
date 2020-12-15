@@ -4,11 +4,11 @@
   </a>
 </p>
 
-<h1 align="center">脚手架 基于 react-native和 Ant Design Mobile RN UI库 JS版本。 </h1>
+<h1 align="center">rbowui/react-native-template 脚手架</h1>
 
-<div align="center">
+<div align="left">
 
-rbowui/react-native-template 基于 react-native 脚手架和 rAnt Design Mobile RN 库+dva-core 数据流,支持hooks写的一个脚手架。配置了axios统一请求及拦截及路由的跳转，底部导航路由跳转。
+rbowui/react-native-template 基于 react-native 脚手架和 rAnt Design Mobile RN 库+dva-core 数据流,支持hooks写的一个脚手架。配置了axios统一请求及拦截及路由的跳转，底部导航路由跳转，开发语言是JS。
 </div>
 
 
@@ -56,6 +56,8 @@ npx react-native run-ios
 ├── .eslintrc                         # eslint configuration
 ├── index.js                          # app entry file
 └── package.json                      # This document is all you need to know about what’s required in your package.json file.
+
+```
 ##  效果
 
 ![861608013478_.pic_hd.jpg](https://i.loli.net/2020/12/15/MXwRmhpNEe9Dj31.png)
