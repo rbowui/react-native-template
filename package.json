@@ -1,12 +1,12 @@
 {
   "name": "@rbowui/react-native-template",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "React Native template for @ant-design/icons-react-native",
   "scripts": {
     "prepublishOnly": "npm --no-git-tag-version version $TRAVIS_TAG"
   },
   "files": [
-    "template",
+    "antdRn",
     "template.config.js"
   ],
   "repository": {
@@ -21,7 +21,9 @@
     "redux",
     "react",
     "react-navigation",
-    "navigation"
+    "navigation",
+    "dva-core"
+
   ],
   "author": "zsm <semin@126.com>",
   "license": "MIT",
